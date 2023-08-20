@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 </div>
 
-![snake svg](https://github.com/Ezra2323/Era2323/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ezra2323/Erza2323/blob/output/github-contribution-grid-snake.svg)
  
