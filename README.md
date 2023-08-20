@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📫 Graduação em Sistemas de Informação
 
   ##
+  
  <div>
   <a href="https://github.com/Ezra2323">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ezra2323&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
