@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 </div>
 
 
-  ![Snake animation](https://github.com/Ezra2323/eEra2323/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ezra2323/Era2323/blob/output/github-contribution-grid-snake.svg)
  
