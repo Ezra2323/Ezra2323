@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Eu sou o Esdras Almeida 👋
 
 <!--
 **Ezra2323/ezra2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <div>
+  <a href="https://github.com/Ezra2323">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezra2323&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezra2323&layout=compact&langs_count=16&theme=dark"/>
+</div>
