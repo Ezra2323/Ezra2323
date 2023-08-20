@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 - 📫 Estudante da Universidade Federal de Ouro Preto
 - 📫 Graduação em Sistemas de Informação
 
+
+
  <div>
   <a href="https://github.com/Ezra2323">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezra2323&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezra2323&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Ezra2323&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezra2323&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 <div style="display: inline_block"><br>
