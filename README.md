@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ####  📫  *Estudante da [Universidade Federal de Ouro Preto (UFOP)](http://www.ufop.br).*
 - ####  📫  Cursando Sistemas de informação
 
-  
+##  
  <div>
   <a href="https://github.com/Ezra2323">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ezra2323&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 </div>
   
   ##
-  
 <div> 
   <a href = "mailto:acaavila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 
