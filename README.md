@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - ####  📫  *Estudante da [Universidade Federal de Ouro Preto (UFOP)](http://www.ufop.br).*
-- ####  📫  *Cursando Sistemas de informação *
+- ####  📫  Cursando Sistemas de informação
 
   
  <div>
