@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 Estudante da Universidade Federal de Ouro Preto
-- 📫 Graduação em Sistemas de Informação
+- 📫 #### *Estudante da [Universidade Federal de Ouro Preto (UFOP)](http://www.ufop.br).*
+- 📫 #### *Cursando Sistemas de informação *
 
-  ##
   
  <div>
   <a href="https://github.com/Ezra2323">
