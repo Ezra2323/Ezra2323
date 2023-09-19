@@ -27,11 +27,11 @@ Here are some ideas to get you started:
   <img align="center" height="100em" alt="Ezra-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
   
-  ##
+  
 <div> 
   <a href = "mailto:acaavila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<div>
 
+##
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
