@@ -44,4 +44,4 @@ Here are some ideas to get you started:
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>> 
+</picture> 
