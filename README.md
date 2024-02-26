@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ## Linguagens e Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30em" alt="Ezra-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" height="30em" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="100em" alt="Ezra-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" height="100em" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 </div>
 
 
