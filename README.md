@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ####  📫  *Estudante da [Universidade Federal de Ouro Preto (UFOP)](http://www.ufop.br).*
-- ####  📫  Cursando Sistemas de informação
+<div>
+  <div style="float:left; margin-right:10px;">
+   <img align="right" height="100em" src="https://github.com/Ezra2323/Ezra2323/assets/113691566/b23e2eca-d28b-4b0e-b2bc-7bcb5a5db029" alt="giphy">
+  </div>
+  
+  - ####  📫  *Estudante da [Universidade Federal de Ouro Preto (UFOP)](http://www.ufop.br).*
+  - ####  📫  Cursando Sistemas de informação
+</div>
+
+
 
 ##  
  <div>
@@ -57,3 +65,6 @@ Here are some ideas to get you started:
   <div> 
   <a href = "mailto:acaavila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <div> 
+  
+
+
