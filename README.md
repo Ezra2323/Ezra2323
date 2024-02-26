@@ -24,8 +24,7 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezra2323&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
    ##Linguagens e ferramentas
-   ##
-  
+
 <div style="display: inline_block"><br>
   <img align="center" height="40em" alt="Ezra-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  <img align="center" height="40em" alt="Ezra-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
