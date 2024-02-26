@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 ##
  
   <div> 
+  ## Estou aprendendo
   <a href = "mailto:acaavila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <div> 
